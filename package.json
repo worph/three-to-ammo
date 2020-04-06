@@ -26,7 +26,7 @@
     "three": "*"
   },
   "devDependencies": {
-    "ammo.js": "github:mozillareality/ammo.js#hubs/master",
+    "ammo.js": "github:mozillareality/ammo.js#fe57353506b79627a5b2e9b0feba4a2fe52b745c",
     "eslint": "^6.7.2",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-prettier": "^3.1.1",
